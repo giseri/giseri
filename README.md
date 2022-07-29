@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @giseri
-- 👀 I’m interested in Web Development
-- 📫 How to reach me giseri@gmail.com
+Interested in Web Development
+
